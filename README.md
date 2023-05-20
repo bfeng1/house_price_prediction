@@ -1,7 +1,7 @@
 # House Price Prediction
 
 ## Objectives
-The main objective is to develop a ML model to provide a estimate house price using given training data. 
+The main objective is to develop a house price preditor that uses given training data and advanced regression techniques. 
 
 ## Dataset Description
 
