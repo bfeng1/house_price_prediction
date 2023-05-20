@@ -5,7 +5,7 @@ The main objective is to develop a ML model to provide a estimate house price us
 
 ## Dataset Description
 
-#### Ames Housing dataset (Kaggle Competition):
+#### [Ames Housing dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) (Kaggle Competition):
 This dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
 
 #### Datasets Details
