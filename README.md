@@ -13,8 +13,10 @@ This dataset was compiled by Dean De Cock for use in data science education. It'
 * test.csv - the test set
 * data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
 
-## Examples
+## User Case
 * first, install the required libraries
 ```pip install -r requirements.txt```
 * second, inside the project folder, run the python file in the terminal
 ```python src/main.py```
+* Following the instruction on the terminal, provide user inputs for each feature
+* Receive the prediction of the house price
