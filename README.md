@@ -21,5 +21,5 @@ This dataset was compiled by Dean De Cock for use in data science education. It'
 * Following the instruction on the terminal, provide user inputs for each feature
 * Receive the prediction of the house price
 
-## Model Accuracy
+## Model Accuracy Comparison
 ![image](https://github.com/bfeng1/house_price_prediction/assets/65517574/f56ca48f-b5eb-4e50-876f-f4bdf1f13894)
