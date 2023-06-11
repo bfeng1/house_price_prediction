@@ -46,7 +46,7 @@ This dataset was compiled by Dean De Cock for use in data science education. It'
 ```python src/model_selection_with_grid_search.py```
 
 ## Model Accuracy 
-```0.026993211114126944```
+```Mean Squared Error: 0.026993211114126944```
 
 ## Addtional Info
 * [Kaggle Project Link](https://www.kaggle.com/code/binfeng2021/house-price-prediction)
