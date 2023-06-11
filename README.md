@@ -17,6 +17,22 @@ This dataset was compiled by Dean De Cock for use in data science education. It'
 * train.csv - the training set. It has been splited into training data (80%) and testing data (20%) during model selection, and then they are all used to train the final perfoming regression model. 
 * data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
 
+## Project Folder Structure
+```
+.
+├── data
+│   ├── data_description.txt
+│   └── train.csv
+├── requirements.txt
+└── src
+    ├── __pycache__
+    │   └── data_preprocesser.cpython-38.pyc
+    ├── data_preprocesser.py
+    ├── main.py
+    ├── model_selection_with_grid_search.py
+    └── train.csv
+```
+
 ## User Case
 ### Try the trained model with user inputs
 * first, install the required libraries
@@ -31,3 +47,8 @@ This dataset was compiled by Dean De Cock for use in data science education. It'
 
 ## Model Accuracy 
 ```0.026993211114126944```
+
+## Addtional Info
+* [Kaggle Project Link](https://www.kaggle.com/code/binfeng2021/house-price-prediction)
+* [Author LinkedIn Bin Feng](https://www.linkedin.com/in/bfeng1/)
+
